@@ -12,3 +12,4 @@ function forEachCustom(array, callback) {
     console.log(`Element at index ${index}: ${element}`);
   });
   
+  let add = 3
